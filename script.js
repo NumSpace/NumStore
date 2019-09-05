@@ -1,4 +1,4 @@
 $(document).ready(function() {
-    console.log("jquery is load ma gueule")
+    alert("jquery is load ma gueule");
 });
   
